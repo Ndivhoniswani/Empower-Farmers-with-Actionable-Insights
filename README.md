@@ -6,6 +6,6 @@
 - [Project Overview](#Project-Overview)
 - [Data Source](#Data-Source)
 - [Tools](#Tools)
-- [Key Points](#Keys points)
+- [Key Points](#Key-Points)
 - [Results](Results)
 - [Usage](Usage)
