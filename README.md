@@ -40,7 +40,7 @@ Note that the database and python files will not be available here, due to copyw
 
 9. **Identifying Influential Factors**: Analyzed feature importance to uncover the key elements driving standard yield fluctuations, enhancing interpretation and decision-making.
 
-10. **Future-Ready Predictive Insights**: Armed with a high-accuracy model, confidently predict standard yield, bridging the gap between farmers and buyers in the dynamic agriculture market.
+10. **Future-Ready Predictive Insights**: Armed with a high-accuracy model, confidently predict standard yield, bridging the gap between farmers and stakeholders in the dynamic agriculture market.
  
 
 ### Tools
