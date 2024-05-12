@@ -47,3 +47,10 @@ Note that the database and python files will not be available here, due to copyw
 - Python
 - Regression
 - Jupyter Notebook
+
+### Results
+This project yields a sophisticated standard yield prediction model, boasting an exceptional 96% R-squared score and a low RMSE of 0.05%. This powerful tool can estimate potential crop yields based on various agricultural factors, empowering farmers and stakeholders with valuable insights to optimize crop production and profitability.
+
+### Usage
+- Run the ipynb file: Regression Project.ipynb
+- Follow the prompts to explore standard yield  predictions based on various features.
